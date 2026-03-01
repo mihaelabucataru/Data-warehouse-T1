@@ -1,2 +1,3 @@
 # Data-warehouse-T1
-Data engineering Tutorial 1 2025-2026
+Data Engineering Tutorial 1 2025-2026
+<img width="1194" height="966" alt="image" src="https://github.com/user-attachments/assets/dc8546e1-c8c5-45c2-9297-2492023c5ab7" />
